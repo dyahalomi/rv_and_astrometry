@@ -10,7 +10,7 @@ paper_v1/
 
 # Ignore extra data
 final_data/earth_jup/phoebe_results/extra_runs/
-final_data/earth_saturn/phoebe_results/extra_runs/
+final_data/earth_sat/phoebe_results/extra_runs/
 
 
 
