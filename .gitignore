@@ -4,10 +4,7 @@
 # Ignore the folder "paper_v1" because outdated
 paper_v1/
 
-# Ignore the folder "final_data" because too larger
-
-
 # Ignore all .pdfs also
-*.pdf
+#*.pdf
 
 
