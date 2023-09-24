@@ -1,0 +1,5 @@
+# Ignore all .cdf files
+*.cdf
+
+# Ignore the folder "paper_v1"
+paper_v1/
